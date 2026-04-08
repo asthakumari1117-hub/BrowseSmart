@@ -1,12 +1,29 @@
 # BrowseSmart 🚀
 
-BrowseSmart is a Python-based smart browsing application designed to improve
-and simplify user web navigation.
+BrowseSmart is a lightweight desktop web browser built using PyQt5, designed to enhance user productivity by integrating powerful tools like Code Explainer and Word-to-PDF Converter directly into the browsing experience.
 
 ## Features
-- Smart browsing logic
-- Python-based application
-- Simple and lightweight
+🌍 Smart Web Browsing
+Built-in browser using QWebEngineView
+Default homepage: WolframAlpha (knowledge engine)
+Fast and responsive navigation
+🧠 Integrated Tools
+💻 Code Explainer → Opens Denigma (AI code explanation tool)
+📄 Word to PDF Converter → Opens iLovePDF tool
+🔧 Navigation Controls
+⬅️ Back
+➡️ Forward
+🔄 Reload
+🏠 Home
+🔗 Custom URL search bar
+🖥️ Desktop Application
+Fully functional GUI-based browser
+Runs as a standalone desktop app
+
+🏗️ Tech Stack
+🐍 Python
+🖼️ PyQt5
+🌐 QWebEngine (Chromium-based engine)
 
 ## How to Run
 ```bash
